@@ -1,0 +1,27 @@
+{
+  "name": "cypress-learning",
+  "version": "1.0.0",
+  "description": "belajar cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run",
+    "open": "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nurstd/cypress-learning.git"
+  },
+  "keywords": [
+    "cypress"
+  ],
+  "author": "nur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nurstd/cypress-learning/issues"
+  },
+  "homepage": "https://github.com/nurstd/cypress-learning#readme",
+  "devDependencies": {
+    "cypress": "^12.2.0",
+    "cypress-xpath": "^2.0.1"
+  }
+}
